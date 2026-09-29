@@ -1,0 +1,6 @@
+{
+  "name": "Rathna Super - Operations & Checklist System",
+  "description": "Modern supermarket daily checklist, audit compliance, proof verification, and executive analytics system for Rathna Super.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
